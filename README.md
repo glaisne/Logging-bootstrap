@@ -1,9 +1,9 @@
-# %%PROJECT_TITLE%%
+# Logging-Bootstrap
 
-[![Terraform CI](https://github.com/%%GH_OWNER%%/%%REPO_SLUG%%/actions/workflows/ci.yml/badge.svg)](https://github.com/%%GH_OWNER%%/%%REPO_SLUG%%/actions/workflows/ci.yml)
-[![Docs – GitHub Pages](https://img.shields.io/badge/docs-gh--pages-blue)](https://%%GH_OWNER%%.github.io/%%REPO_SLUG%%)
+[![Terraform CI](https://github.com/%%GH_OWNER%%/Logging-bootstrap/actions/workflows/ci.yml/badge.svg)](https://github.com/%%GH_OWNER%%/Logging-bootstrap/actions/workflows/ci.yml)
+[![Docs – GitHub Pages](https://img.shields.io/badge/docs-gh--pages-blue)](https://%%GH_OWNER%%.github.io/Logging-bootstrap)
 
-> *Replace* `%%PROJECT_TITLE%%`, `%%REPO_SLUG%%`, and `%%GH_OWNER%%` with real values.  
+> *Replace* `Logging-Bootstrap`, `Logging-bootstrap`, and `%%GH_OWNER%%` with real values.  
 > If you use the automation script I shared, the title and slug are filled in automatically—edit the owner once or extend the script to inject it.
 
 ---
