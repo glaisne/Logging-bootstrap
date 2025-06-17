@@ -68,11 +68,6 @@ variable "storage_account_container_name" {
     default = "logs"
 }
 
-# variable "storage_account_connection_string" {
-#     type = string
-#     description = "The Connection String of the Storage Account"
-# }
-
 variable "storage_account_container_access_type" {
     type = string
     description = "The access typ for the container. Options: blob, container or private"
@@ -89,12 +84,6 @@ variable "log_analytics_workspace_name" {
     type = string
     description = "The name of the Log Analytics Workspace"
     default = "log-asdfnwoanwd"
-}
-
-variable "log_analytics_workspace_access_tier" {
-    type = string
-    description = "The sku of the Log Analytics Workspace"
-    default = "Premium"
 }
 
 variable "log_analytics_workspace_sku" {
