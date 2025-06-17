@@ -1,6 +1,0 @@
-subscription_id      = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-tenant_id            = "yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy"
-resource_group_name  = "rg-tfstate"
-storage_account_name = "tfstateprodsa"
-container_name       = "tfstate"
-key                  = "prod.tfstate"
