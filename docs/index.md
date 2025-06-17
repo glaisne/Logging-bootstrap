@@ -11,7 +11,7 @@
 
 **Azure Resources**:
 
-![Diagram](https://github.com/glaisne/Logging-bootstrap/blob/main/diagrams/digram.png))
+![Diagram](https://github.com/glaisne/Logging-bootstrap/blob/main/diagrams/digram.png)
 
 * `azurerm_resource_group`
 * `azurerm_storage_account`
